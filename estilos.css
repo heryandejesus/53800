@@ -1,9 +1,36 @@
-body {
-  background-color: aqua;
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif !important;
 }
 
-p {
-  color: green;
+body {
+  background-color: #fc7643;
+}
+
+.navbar {
+  background-color: #273248 !important;
+}
+
+.navbar-brand {
+  color: #FFEBD2 !important;
+  font-weight: bold !important;
+  text-shadow: 0 0 5px #273248 !important;
+  font-size: 35px !important;
+  background-color: #273248 !important;
+  border: 2px solid #af4f41 !important;
+  border-radius: 10px !important;
+}
+
+.color-acento {
+  color: #fc7643 !important;
+}
+
+.nav-link {
+  color: #FFEBD2;
+  font-size: 20px;
+}
+
+.carousel-item {
+  background-size: cover !important;
 }
 
 /*# sourceMappingURL=estilos.css.map */

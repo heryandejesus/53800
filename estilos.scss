@@ -1,6 +1,40 @@
-body{
-    background-color: aqua;
+// paleta de colores:
+$color1: #FFEBD2;
+$color2: #ffa364;
+$color3: #fc7643;
+$color4: #af4f41;
+$color5: #273248;
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
 }
-p{
-    color: green;
+
+body{
+    background-color: $color3;
+}
+
+.navbar{
+    background-color: $color5 !important;
+}
+.navbar-brand{
+    color: $color1 !important;
+    font-weight: bold !important;
+    text-shadow: 0 0 5px  $color5 !important;
+    font-size: 35px !important;
+    background-color: $color5 !important;
+    border: 2px solid $color4 !important;
+    border-radius: 10px !important;
+}
+
+.color-acento{
+    color: $color3 !important;
+}
+
+.nav-link{
+    color: $color1;
+    font-size: 20px;
+}
+
+.carousel-item{
+    background-size: cover !important;
 }
