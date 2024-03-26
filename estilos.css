@@ -33,4 +33,11 @@ body {
   background-size: cover !important;
 }
 
+.custom-border-radius {
+  color: #FFEBD2;
+  border: 2px solid #af4f41 !important;
+  border-radius: 15px !important;
+  background-color: #273248;
+}
+
 /*# sourceMappingURL=estilos.css.map */

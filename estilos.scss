@@ -38,3 +38,10 @@ body{
 .carousel-item{
     background-size: cover !important;
 }
+
+.custom-border-radius {
+    color: $color1;
+    border: 2px solid $color4 !important;
+    border-radius: 15px !important;
+    background-color: $color5;
+}
