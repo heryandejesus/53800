@@ -40,8 +40,8 @@ body{
 }
 
 .custom-border-radius {
-    color: $color1;
+    color: $color1 !important;
     border: 2px solid $color4 !important;
     border-radius: 15px !important;
-    background-color: $color5;
+    background-color: $color5 !important;
 }

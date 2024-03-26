@@ -34,10 +34,10 @@ body {
 }
 
 .custom-border-radius {
-  color: #FFEBD2;
+  color: #FFEBD2 !important;
   border: 2px solid #af4f41 !important;
   border-radius: 15px !important;
-  background-color: #273248;
+  background-color: #273248 !important;
 }
 
 /*# sourceMappingURL=estilos.css.map */
