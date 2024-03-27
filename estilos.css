@@ -7,8 +7,8 @@ body {
 }
 
 .fondo {
-  background-image: url(img/cook-4966896_1280.jpg);
-  background-size: cover;
+  background-image: url(img/cook-4966896_1280.jpg) !important;
+  background-size: cover !important;
 }
 
 .navbar {
