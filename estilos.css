@@ -56,6 +56,15 @@ footer {
   font-size: 30px;
 }
 
+h2 {
+  background-color: #273248 !important;
+  color: #FFEBD2 !important;
+}
+
+h4 {
+  color: #FFEBD2 !important;
+}
+
 .container-card {
   width: 100% !important;
   display: flex !important;

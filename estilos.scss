@@ -70,6 +70,15 @@ footer{
 }
 
 //cards
+h2{
+    background-color: $color5!important;
+    color: $color1!important;
+}
+
+h4{
+    color: $color1 !important;
+}
+
 .container-card{
 	width: 100% !important;
 	display: flex !important;
