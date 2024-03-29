@@ -5,6 +5,7 @@ $color3: #fc7643;
 $color4: #af4f41;
 $color5: #273248;
 
+
 //body
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif !important;
@@ -60,6 +61,27 @@ body{
 .fondo-section{
     background-image: url(img/cook-4966896_1280.jpg) !important;
     background-size: cover !important;
+}
+
+//fondo contacto
+.fondo-contacto{
+    background-image: url(img/cook-4966896_1280.jpg) !important;
+    background-size: cover !important;
+    color: $color1;
+}
+
+//boton contacto
+.boton{
+    background-color: $color5;
+    color: $color3;
+    border: 1px solid $color3 !important;
+	border-radius: 4px !important;
+    margin-top: 5px;
+}
+
+.boton:hover{
+    background: $color4 !important;
+	color: $color1 !important;
 }
 
 //footer

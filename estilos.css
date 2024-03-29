@@ -50,6 +50,25 @@ body {
   background-size: cover !important;
 }
 
+.fondo-contacto {
+  background-image: url(img/cook-4966896_1280.jpg) !important;
+  background-size: cover !important;
+  color: #FFEBD2;
+}
+
+.boton {
+  background-color: #273248;
+  color: #fc7643;
+  border: 1px solid #fc7643 !important;
+  border-radius: 4px !important;
+  margin-top: 5px;
+}
+
+.boton:hover {
+  background: #af4f41 !important;
+  color: #FFEBD2 !important;
+}
+
 footer {
   background-color: #273248;
   color: white;
