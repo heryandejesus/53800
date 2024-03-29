@@ -70,7 +70,7 @@ body{
     color: $color1;
 }
 
-//boton contacto
+//boton contacto y reservas
 .boton{
     background-color: $color5;
     color: $color3;
@@ -82,6 +82,13 @@ body{
 .boton:hover{
     background: $color4 !important;
 	color: $color1 !important;
+}
+
+//fondo reservas
+.fondo-reservas{
+    background-image: url(img/cook-4966896_1280.jpg) !important;
+    background-size: cover !important;
+    color: $color1;
 }
 
 //footer

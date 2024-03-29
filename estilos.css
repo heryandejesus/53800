@@ -69,6 +69,12 @@ body {
   color: #FFEBD2 !important;
 }
 
+.fondo-reservas {
+  background-image: url(img/cook-4966896_1280.jpg) !important;
+  background-size: cover !important;
+  color: #FFEBD2;
+}
+
 footer {
   background-color: #273248;
   color: white;

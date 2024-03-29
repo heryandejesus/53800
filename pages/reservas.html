@@ -18,11 +18,14 @@
     <link rel="stylesheet" href="../estilos.css" />
     <title>Entrega 3</title>
   </head>
-  <body>
+  <body class="fondo-reservas">
+    <!-- navegador inicia -->
     <header>
       <nav class="navbar navbar-expand-md bg-dark navbar-dark">
         <div class="container-fluid">
-          <a class="navbar-brand" href="../index.html">TuReceta<span class="color-acento">YA</span></a>
+          <a class="navbar-brand" href="../index.html"
+            >TuReceta<span class="color-acento">YA</span></a
+          >
           <button
             class="navbar-toggler"
             type="button"
@@ -53,6 +56,68 @@
         </div>
       </nav>
     </header>
+    <!-- navegador fin -->
+    <!-- main inicia-->
+    <main class="row">
+      <div class=" container col-md-6">
+        <h3 class="mt-5 text-center">
+          En TuRecetaYa contamos con un espacio llamado Experiencia
+        </h3>
+        <p class="mt-3 text-center">
+          En este espacio cuentas con un ambiente muy acogedor para que degustes
+          las comidas de nuestros alumnos. Reserva tu Experiencia y cuenta con
+          un descuento del 20% en tus primeras 3 asistencias.
+        </p>
+      </div>
+    </main>
+    <!-- main fin -->
+    <!-- formulario reservas inicio -->
+    <section id="reservas" class="py-5">
+      <div class="container">
+        <h2 class="mb-4 text-center rounded">Reserva tu Experiencia</h2>
+        <form>
+          <div class="form-row">
+            <div class="form-group col-md-6">
+              <label for="destino">Sucursal</label>
+              <input
+                type="text"
+                class="form-control"
+                id="destino"
+                placeholder="¿Dónde será tu experiencia?"
+              />
+            </div>
+            <div class="form-group col-md-3">
+              <label for="fechaEntrada">Fecha de Experiencia</label>
+              <input type="date" class="form-control" id="fechaEntrada" />
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group col-md-4">
+              <label for="adultos">Adultos</label>
+              <select id="adultos" class="form-control">
+                <option selected>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+              </select>
+            </div>
+            <div class="form-group col-md-4">
+              <label for="niños">Niños</label>
+              <select id="niños" class="form-control">
+                <option selected>0</option>
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+              </select>
+            </div>
+          </div>
+          <button type="submit" class="boton">Reservar</button>
+        </form>
+      </div>
+    </section>
+    <!-- formulario reservas fin -->
 
     <!-- Footer inicia -->
 
