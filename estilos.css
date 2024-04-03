@@ -45,6 +45,14 @@ body {
   background-color: #273248 !important;
 }
 
+.text-custom {
+  color: #FFEBD2;
+}
+
+.card-img-top {
+  background-size: cover !important;
+}
+
 .fondo-section {
   background-image: url(img/cook-4966896_1280.jpg) !important;
   background-size: cover !important;
