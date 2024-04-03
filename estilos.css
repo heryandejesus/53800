@@ -7,7 +7,7 @@ body {
 }
 
 .fondo {
-  background-image: url(img/cook-4966896_1280.jpg) !important;
+  background-image: url(img/fondozapallo.jpg) !important;
   background-size: cover !important;
 }
 
@@ -45,6 +45,11 @@ body {
   background-color: #273248 !important;
 }
 
+.fondo-nosotros {
+  background-image: url(img/fondozapallo.jpg);
+  background-size: cover;
+}
+
 .text-custom {
   color: #FFEBD2;
 }
@@ -54,12 +59,12 @@ body {
 }
 
 .fondo-section {
-  background-image: url(img/cook-4966896_1280.jpg) !important;
+  background-image: url(img/fondozapallo.jpg) !important;
   background-size: cover !important;
 }
 
 .fondo-contacto {
-  background-image: url(img/cook-4966896_1280.jpg) !important;
+  background-image: url(img/fondozapallo.jpg) !important;
   background-size: cover !important;
   color: #FFEBD2;
 }
@@ -78,7 +83,7 @@ body {
 }
 
 .fondo-reservas {
-  background-image: url(img/cook-4966896_1280.jpg) !important;
+  background-image: url(img/fondozapallo.jpg) !important;
   background-size: cover !important;
   color: #FFEBD2;
 }

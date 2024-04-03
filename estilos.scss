@@ -17,7 +17,7 @@ body{
 
 //body servicios
 .fondo{
-    background-image: url(img/cook-4966896_1280.jpg) !important;
+    background-image: url(img/fondozapallo.jpg) !important;
     background-size: cover !important;
 }
 
@@ -58,6 +58,12 @@ body{
 }
 
 // nosotros
+.fondo-nosotros{
+	background-image: url(img/fondozapallo.jpg);
+	background-size: cover;
+	
+}
+
 .text-custom{
 	color: $color1;
 }
@@ -68,13 +74,13 @@ body{
 
 //fondo section
 .fondo-section{
-    background-image: url(img/cook-4966896_1280.jpg) !important;
+    background-image: url(img/fondozapallo.jpg) !important;
     background-size: cover !important;
 }
 
 //fondo contacto
 .fondo-contacto{
-    background-image: url(img/cook-4966896_1280.jpg) !important;
+    background-image: url(img/fondozapallo.jpg) !important;
     background-size: cover !important;
     color: $color1;
 }
@@ -95,7 +101,7 @@ body{
 
 //fondo reservas
 .fondo-reservas{
-    background-image: url(img/cook-4966896_1280.jpg) !important;
+    background-image: url(img/fondozapallo.jpg) !important;
     background-size: cover !important;
     color: $color1;
 	
