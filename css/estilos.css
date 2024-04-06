@@ -7,7 +7,7 @@ body {
 }
 
 .fondo {
-  background-image: url(img/fondozapallo.jpg) !important;
+  background-image: url(../img/fondozapallo.jpg) !important;
   background-size: cover !important;
 }
 
@@ -46,7 +46,7 @@ body {
 }
 
 .fondo-nosotros {
-  background-image: url(img/fondozapallo.jpg);
+  background-image: url(../img/fondozapallo.jpg);
   background-size: cover;
 }
 
@@ -59,12 +59,12 @@ body {
 }
 
 .fondo-section {
-  background-image: url(img/fondozapallo.jpg) !important;
+  background-image: url(../img/fondozapallo.jpg) !important;
   background-size: cover !important;
 }
 
 .fondo-contacto {
-  background-image: url(img/fondozapallo.jpg) !important;
+  background-image: url(../img/fondozapallo.jpg) !important;
   background-size: cover !important;
   color: #FFEBD2;
 }
@@ -83,7 +83,7 @@ body {
 }
 
 .fondo-reservas {
-  background-image: url(img/fondozapallo.jpg) !important;
+  background-image: url(../img/fondozapallo.jpg) !important;
   background-size: cover !important;
   color: #FFEBD2;
 }
